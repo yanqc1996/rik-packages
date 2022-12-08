@@ -2,8 +2,11 @@
   "name": "rik-packages",
   "version": "1.0.0",
   "description": "rik github npm test",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "umd:main": "dist/index.umd.js",
+  "module": "dist/index.es.js",
   "scripts": {
+    "build": "microbundle --sourcemap=false",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
