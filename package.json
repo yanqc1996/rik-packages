@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/yanqc1996/rik-packages/issues"
   },
-  "homepage": "https://github.com/yanqc1996/rik-packages#readme"
+  "homepage": "https://github.com/yanqc1996/rik-packages#readme",
+  "dependencies": {
+    "microbundle": "^0.15.1"
+  }
 }
