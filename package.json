@@ -1,6 +1,6 @@
 {
   "name": "@yanqc1996/rik-packages",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "rik github npm test",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
