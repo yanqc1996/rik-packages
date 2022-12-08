@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "@yanqc1996:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@yanqc1996"
   },
   "repository": {
     "type": "git",
