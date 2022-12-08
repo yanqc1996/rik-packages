@@ -1,5 +1,5 @@
 {
-  "name": "rik-packages",
+  "name": "@yanqc1996/rik-packages",
   "version": "1.0.0",
   "description": "rik github npm test",
   "main": "dist/index.js",
