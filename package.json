@@ -1,0 +1,19 @@
+{
+  "name": "rik-packages",
+  "version": "1.0.0",
+  "description": "rik github npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanqc1996/rik-packages.git"
+  },
+  "author": "yanqc1996",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanqc1996/rik-packages/issues"
+  },
+  "homepage": "https://github.com/yanqc1996/rik-packages#readme"
+}
